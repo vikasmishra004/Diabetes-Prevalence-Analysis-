@@ -28,3 +28,9 @@ This project examines age-specific prevalence and socio-demographic determinants
 
 ## Data Note
 Raw survey data are not included due to usage restrictions. The repository contains only reproducible analysis code.Users must place Data1.dta and Data2.dta in the working directory before running the script.
+
+## Full Report
+
+The detailed research report is available here:
+
+[View Full Report](output/Glycaemic_Status_Analysis_Women_15_49.pdf)
