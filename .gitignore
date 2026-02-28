@@ -1,0 +1,10 @@
+# Stata files
+*.log
+*.smcl
+*.tmp
+*.gph
+*.dta
+
+# System files
+.DS_Store
+Thumbs.db
