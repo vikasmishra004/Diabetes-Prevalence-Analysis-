@@ -27,4 +27,4 @@ This project examines age-specific prevalence and socio-demographic determinants
 - `.gitignore` → Excludes raw data and temporary files  
 
 ## Data Note
-Raw survey data are not included due to usage restrictions. The repository contains only reproducible analysis code.
+Raw survey data are not included due to usage restrictions. The repository contains only reproducible analysis code.Users must place Data1.dta and Data2.dta in the working directory before running the script.
